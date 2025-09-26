@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="typing-extensions" />
+          <option value="openai" />
+          <option value="langchain-openai" />
+          <option value="langchain-experimental" />
+          <option value="pandas" />
+          <option value="yfinance" />
+          <option value="praw" />
+          <option value="feedparser" />
+          <option value="stockstats" />
+          <option value="eodhd" />
+          <option value="langgraph" />
+          <option value="chromadb" />
+          <option value="setuptools" />
+          <option value="backtrader" />
+          <option value="akshare" />
+          <option value="tushare" />
+          <option value="baostock" />
+          <option value="finnhub-python" />
+          <option value="parsel" />
+          <option value="requests" />
+          <option value="tqdm" />
+          <option value="pytz" />
+          <option value="redis" />
+          <option value="chainlit" />
+          <option value="rich" />
+          <option value="questionary" />
+          <option value="langchain_anthropic" />
+          <option value="langchain-google-genai" />
+          <option value="dashscope" />
+          <option value="streamlit" />
+          <option value="plotly" />
+          <option value="psutil" />
+          <option value="pytdx" />
+          <option value="pymongo" />
+          <option value="markdown" />
+          <option value="pypandoc" />
+          <option value="python-dotenv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
